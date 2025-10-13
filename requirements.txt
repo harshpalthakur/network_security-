@@ -1,0 +1,4 @@
+python-dotenev
+pandas
+numpy
+scikit-learn
